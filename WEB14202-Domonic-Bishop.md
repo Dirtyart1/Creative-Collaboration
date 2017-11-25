@@ -7,11 +7,7 @@
 - [Summative Presentation](#summative-presentation-link)
 - [Blogs](#blogs)
 - [Change by Design](#change-by-design)
-- [Content strategy](#content-strategy)
-- [Wireframes](#wireframes)
-- [Research link](#research-link)
-- [Formative Video link](#formative-video-link)
-- [Competitor Analysis link](#competitor-analysis-link)
+- [Photo Library](#photo-library)
 
 
 ## [Formative Presentation Link](https://docs.google.com/presentation/d/15yMiXfV7Ir-G8vGpYeiY2rjIJwpbKkM3QL0OcpUHkbk/edit?usp=sharing) 
@@ -71,3 +67,12 @@ To establish a set of guidelines for the brand, I had to examine how to express 
 <img src="https://i.imgur.com/gjvEvzh.jpg">
 
 <img src="https://i.imgur.com/pApodUI.png">
+
+
+## Photo Library
+
+###### The new logo, designed by Ricardo Welch:
+
+<img src="https://i.imgur.com/HFFWfHG.jpg">
+
+[Website link](http://froodle.raveweb.net/froodle/)
