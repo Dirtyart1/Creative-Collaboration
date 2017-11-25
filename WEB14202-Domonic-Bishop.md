@@ -6,6 +6,7 @@
 - [Formative Presentation](#formative-presentation)
 - [Summative Presentation](#summative-presentation)
 - [Blogs](#blogs)
+- [Change by Design](#change-by-design)
 - [Content strategy](#content-strategy)
 - [Wireframes](#wireframes)
 - [Research link](#research-link)
@@ -27,6 +28,26 @@
 7. [How are you going to use SEO to extend the reach of your Image Library?](https://medium.com/@domonic_bishop/how-are-you-going-to-use-seo-to-extend-the-reach-of-your-image-library-8700b7ae560d)
 8. [Explore good examples of good social media marketing. Analyse at least three pieces of work and then blog about them.](https://medium.com/@domonic_bishop/what-are-good-examples-of-good-social-media-marketing-89b6228afd29)
 9. [Reflect on your blog in week 6 and write about how your approach has changed since then.]()
+
+
+## Change by Design
+
+<img src="https://i.imgur.com/3JEY4n7.jpg" width="325">
+
+Our task was to refresh a brand and give it a new direction, and we where given Guide Dogs UK as part of the brief.
+
+To start with, we needed to decide how we were going to redirect the brand of Guide Dogs UK. After exploring their existing branding online such as their website and social medias, I found that the initial branding of Guide Dogs UK left a lot to be desired. The first one being their website, while it was functional in terms of usability for the impaired with scalable text and colour alteration options, the aesthetic was boring and didn’t innovate. From looking at their social medias I gathered that there was no clear target audience. So then it was decided as a team we would target millennials with our new branding. I researched what should be implemented into our branding to meet what we were setting out to do, these are some of the sources I found:
+
+- https://www.guidedogs.org.uk/microsites/guide-dogs-in-school/puppy-resources/how-can-a-guide-dog-change-a-life/how-are-guide-dogs-trained/
+- https://www.newscred.com/wp-content/themes/newscred/assets/downloads/guide/NewsCred_Millennial_Mind.pdf
+- https://insights.newscred.com/content-drives-millennial-brand-loyalty/
+- https://insights.newscred.com/welcome-to-the-performance-era-of-content-marketing/
+- http://www.thedrum.com/opinion/2017/07/31/which-brands-do-millennials-best
+
+From the research done, I gathered a good insight into what Guide Dogs UK wanted to achieve as a brand. They want to support those who need guide dogs, but they also want to educate people about exactly what a guide dog does and why they’re an important cause to support. In addition I looked into research done on branding and marketing towards millennials. I found that in terms of a social media strategy, the content we share should be educational and short, and the best way to do that would be through infographics. And so we did produce an example infographic for the brand that aligned with this and the fact that our content needs to be compelling for it to meet its purpose.
+
+
+
 
 
 ## Content Strategy
