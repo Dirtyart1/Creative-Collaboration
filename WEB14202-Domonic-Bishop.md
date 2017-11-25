@@ -55,7 +55,7 @@ From the research done, I gathered a good insight into what Guide Dogs UK wanted
 
 To establish a set of guidelines for the brand, I had to examine how to express that as an item by looking at how other brands write and present theirs. From looking at them I knew what I needed to include in ours, such as the language we use and what fonts we use and in what context. Being a charity trying to help people, I established the guidelines language as something approachable, giving, and inspiring because I felt that was what was most relevant to the brands new direction we were giving it. The colour scheme was also redesigned to better fit our new modern aesthetic with lighter shades and colours that better complimented one and other. The colours used, like blue, help us express ourselves as something kind and open just by our appearance.
 
-![(These are the guidelines I used for reference)](https://www.redcross.org/images/MEDIA_CustomProductCatalog/m6440103_BrandPoster.pdf)
+![(These are the guidelines I used for reference)(https://www.redcross.org/images/MEDIA_CustomProductCatalog/m6440103_BrandPoster.pdf)
 
 ##### Here they are formated to be presentable:
 
