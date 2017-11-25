@@ -51,11 +51,23 @@ To start with, we needed to decide how we were going to redirect the brand of Gu
 
 From the research done, I gathered a good insight into what Guide Dogs UK wanted to achieve as a brand. They want to support those who need guide dogs, but they also want to educate people about exactly what a guide dog does and why they’re an important cause to support. In addition I looked into research done on branding and marketing towards millennials. I found that in terms of a social media strategy, the content we share should be educational and short, and the best way to do that would be through infographics. And so we did produce an example infographic for the brand that aligned with this and the fact that our content needs to be compelling for it to meet its purpose.
 
+
+
+
+
+
+
+
+
+
+
+
+
 ### Guide Dogs UK new brand guidelines
 
 To establish a set of guidelines for the brand, I had to examine how to express that as an item by looking at how other brands write and present theirs. From looking at them I knew what I needed to include in ours, such as the language we use and what fonts we use and in what context. Being a charity trying to help people, I established the guidelines language as something approachable, giving, and inspiring because I felt that was what was most relevant to the brands new direction we were giving it. The colour scheme was also redesigned to better fit our new modern aesthetic with lighter shades and colours that better complimented one and other. The colours used, like blue, help us express ourselves as something kind and open just by our appearance.
 
-#### ![These are the guidelines I used for reference](https://drive.google.com/file/d/12z96QLDipMYyboH7sVLNP2MrniwbZiiL/view?usp=sharing), and this is the end result:
+#### [These are the guidelines I used for reference](https://drive.google.com/file/d/12z96QLDipMYyboH7sVLNP2MrniwbZiiL/view?usp=sharing), and this is the end result:
 
 <img src="https://i.imgur.com/gjvEvzh.jpg">
 
