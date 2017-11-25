@@ -14,7 +14,8 @@
 - [Competitor Analysis link](#competitor-analysis-link)
 
 
-## [Formative Presentation Link](https://docs.google.com/presentation/d/15yMiXfV7Ir-G8vGpYeiY2rjIJwpbKkM3QL0OcpUHkbk/edit?usp=sharing) and [here are the notes I wrote for everyone](https://docs.google.com/document/d/1mXrPbGocpaKk2sRD4QOmNwoGTLCHEG342BUKleSxiOY/edit?usp=sharing)
+## [Formative Presentation Link](https://docs.google.com/presentation/d/15yMiXfV7Ir-G8vGpYeiY2rjIJwpbKkM3QL0OcpUHkbk/edit?usp=sharing) 
+[here are the notes I wrote for everyone](https://docs.google.com/document/d/1mXrPbGocpaKk2sRD4QOmNwoGTLCHEG342BUKleSxiOY/edit?usp=sharing)
 
 ## [Summative Presentation Link]()
 
@@ -54,9 +55,7 @@ From the research done, I gathered a good insight into what Guide Dogs UK wanted
 
 
 
-
-
-
+---
 
 
 
@@ -72,32 +71,3 @@ To establish a set of guidelines for the brand, I had to examine how to express 
 <img src="https://i.imgur.com/gjvEvzh.jpg">
 
 <img src="https://i.imgur.com/pApodUI.png">
-
-
-## Content Strategy
-_Note: at one point my project was called **"Big Bear is Watching"** and now it's called **"A Day in the Future"**_
-
-
-## User Feedback 
-[These are the notes I made as my test users where using and commenting on the site!](https://docs.google.com/document/d/1f3Cg6D7tGP0C0DIN9Zxg5i3EvK1-9z597vsQjk9vy3E/edit?usp=sharing)
-They mentioned grammar errors that I didn't notice, and some design flaws. The grammar was addressed, and most of the design flaws where too. They noticed that it was awkward when moving from certain parts of the story, because the parallax scrolling would mess around with the perception of the image. To amend this, I added the thin black lines between sections that I mentioned earlier. The only slight issue that could't be fixed was that they thought some parts of the site where buttons when they weren't (the parts I'm talking about are the white boxes at the start and end, with a black background surrounding them). They weren't fixed because it was only minor in their opinion, and I couldn't find an alternative.
-
-
-## Moodboard
-This is a [Pinterest Moodboard](http://pin.it/P8UJ-9g) I made while creating the initial concept for the illustrations I made for my website.
-![alt text](http://i.imgur.com/vUBCVJe.png)
-
-
-## Wireframes
-These are the two wireframes I made, and the final site did resemble these for the most part.
-![wireframe 1](http://i.imgur.com/KGCpBpF.jpg)
-![wireframe 2](http://i.imgur.com/NsauzEe.jpg)
-
-
-## [Research link](https://docs.google.com/document/d/1RBbZNcCQdf-55TiwmpMybxipnEkHXsyxm8rWRjlIlr4/edit?usp=sharing)
-
-## [Formative Video link](https://vimeo.com/208009580)
-
-## [Competitor Analysis link](https://docs.google.com/document/d/1tXs0DFL7-eRRuKUlufqbJBu0W8RwMguYHB27CDh-yns/edit?usp=sharing)
-
-## [Code for Website](https://github.com/DomBishop/A-Day-in-the-Future/tree/gh-pages/Domonic)
