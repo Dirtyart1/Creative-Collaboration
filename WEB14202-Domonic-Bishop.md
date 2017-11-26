@@ -76,9 +76,25 @@ To establish a set of guidelines for the brand, I had to examine how to express 
 
 <img src="https://i.imgur.com/HFFWfHG.jpg">
 
+For this project we had to create an online photo library with a niche concept, and we decided we would go with fruit and vegetable photography with a Pop Art theme. The library's name is Froodle.
 
+### Research
 
-###
+For our research we looked at photographers that were already doing food photography in a pop art style, these are the ones we found:
+
+- [Joseph Maida](https://www.instagram.com/josephmaida/)
+- [Maciek Jasik](https://www.instagram.com/mjasik/)
+- [Aleksandra Kingo](http://aleksandrakingo.com/)
+
+The key element in all of the photos we looked at was the manipulation of food to make it look fake intentionally, or edit it in such as way that at a glance a cauliflower looked like a raspberry. The photographers took this and tried to implement it into their photos, while us on web media tried to influence our design with it. On the subject of research influencing design, the research on millennials done for the rebrand was useful for us here because the plan was to share the same target audience:
+
+- https://www.newscred.com/wp-content/themes/newscred/assets/downloads/guide/NewsCred_Millennial_Mind.pdf
+- https://insights.newscred.com/content-drives-millennial-brand-loyalty/
+- https://insights.newscred.com/welcome-to-the-performance-era-of-content-marketing/
+- http://www.thedrum.com/opinion/2017/07/31/which-brands-do-millennials-best
+
+With this research we had conducted, we could establish how to build some brand guidelines that understood the audience and concept of Froodle. And how to implement design and marketing strategies that engaged our target audience and brought them closer to the brand.
+
 
 ---
 
