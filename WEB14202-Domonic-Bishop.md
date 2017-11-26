@@ -113,6 +113,12 @@ These wireframes where just an initial concept of what the site could look like,
 
 <img src="https://i.imgur.com/VHt6JyV.png" width="500">
 
+These are the final wireframes that influenced the final site based on our research and branding:
+
+<img src="https://i.imgur.com/bXjFj4s.png" width="500">
+
+<img src="https://i.imgur.com/0xM39U3.png" width="500">
+
 
 ---
 
