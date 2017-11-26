@@ -11,9 +11,10 @@
 
 
 ## [Formative Presentation Link](https://docs.google.com/presentation/d/15yMiXfV7Ir-G8vGpYeiY2rjIJwpbKkM3QL0OcpUHkbk/edit?usp=sharing) 
-[here are the notes I wrote for everyone](https://docs.google.com/document/d/1mXrPbGocpaKk2sRD4QOmNwoGTLCHEG342BUKleSxiOY/edit?usp=sharing)
+[here are the notes I wrote](https://docs.google.com/document/d/1mXrPbGocpaKk2sRD4QOmNwoGTLCHEG342BUKleSxiOY/edit?usp=sharing)
 
 ## [Summative Presentation Link]()
+[here are the notes I wrote](https://docs.google.com/document/d/1wul1udwMyk5LMSqYUQdyCjQNhntNGtW5IiObEbeK05Q/edit?usp=sharing)
 
 
 ## Blogs
