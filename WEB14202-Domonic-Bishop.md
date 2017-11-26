@@ -78,7 +78,7 @@ To establish a set of guidelines for the brand, I had to examine how to express 
 
 For this project we had to create an online photo library with a niche concept, and we decided we would go with fruit and vegetable photography with a Pop Art theme. The library's name is Froodle.
 
-### Research
+### Research (Froodle)
 
 For our research we looked at photographers that were already doing food photography in a pop art style, these are the ones we found:
 
