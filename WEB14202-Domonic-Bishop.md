@@ -122,4 +122,13 @@ These are the final wireframes that influenced the final site based on our resea
 
 ---
 
+### Logos
+
+The logo was designed by Ricardo Welch, here it is in some different colour variants:
+
+<img src="https://i.imgur.com/v1ZF6LT.jpg" width="400">
+
+
+---
+
 ### [Website link](http://froodle.raveweb.net/froodle/)
