@@ -95,6 +95,15 @@ The key element in all of the photos we looked at was the manipulation of food t
 
 With this research we had conducted, we could establish how to build some brand guidelines that understood the audience and concept of Froodle. And how to implement design and marketing strategies that engaged our target audience and brought them closer to the brand.
 
+### Sketches
+
+###### This is the rough mockup of a wireframe and logo I did when we first agreed on a concept for the site:
+
+<img src="https://i.imgur.com/TMmOo3d.jpg" width="500">
+
+### Wireframes
+
+
 
 ---
 
