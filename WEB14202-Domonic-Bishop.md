@@ -3,17 +3,20 @@
 ## Domonic Bishop
 
 ## Index
-- [Formative Presentation](#formative-presentation-link)
-- [Summative Presentation](#summative-presentation-link)
+- [Rebrand Presentation](#rebrand-presentation-link)
+- [Formative Photo Library](#formative-photo-library-link)
+- [Summative Presentation](#summative-photo-library-link)
 - [Blogs](#blogs)
 - [Change by Design](#change-by-design)
 - [Photo Library](#photo-library)
 
 
-## [Formative Presentation Link](https://docs.google.com/presentation/d/15yMiXfV7Ir-G8vGpYeiY2rjIJwpbKkM3QL0OcpUHkbk/edit?usp=sharing) 
+## [Rebrand Presentation Link](https://docs.google.com/presentation/d/15yMiXfV7Ir-G8vGpYeiY2rjIJwpbKkM3QL0OcpUHkbk/edit?usp=sharing) 
 [here are the notes I wrote](https://docs.google.com/document/d/1mXrPbGocpaKk2sRD4QOmNwoGTLCHEG342BUKleSxiOY/edit?usp=sharing)
 
-## [Summative Presentation Link]()
+## [Formative Photo Library Link](https://drive.google.com/file/d/1oFrXdGbDV0JfMNZvDQzSiIUb_MktgwwA/view?usp=sharing)
+
+## [Summative Photo Library Link](https://docs.google.com/presentation/d/17yBemX4EAaBqzdjbCTkVBJNxEUdRN7aloe-OOxeXBe4/edit?usp=sharing)
 [here are the notes I wrote](https://docs.google.com/document/d/1wul1udwMyk5LMSqYUQdyCjQNhntNGtW5IiObEbeK05Q/edit?usp=sharing)
 
 
@@ -131,4 +134,10 @@ The logo was designed by Ricardo Welch, here it is in some different colour vari
 
 ---
 
+### Website
+
 ### [Website link](http://froodle.raveweb.net/froodle/)
+
+The website was built out of the Gaïa wordpress theme
+
+<img src="https://i.imgur.com/82NI36r.jpg" width="500">
