@@ -5,7 +5,7 @@
 ## Index
 - [Rebrand Presentation](#rebrand-presentation-link)
 - [Formative Photo Library](#formative-photo-library-link)
-- [Summative Presentation](#summative-photo-library-link)
+- [Summative Photo Library](#summative-photo-library-link)
 - [Blogs](#blogs)
 - [Change by Design](#change-by-design)
 - [Photo Library](#photo-library)
@@ -138,6 +138,12 @@ The logo was designed by Ricardo Welch, here it is in some different colour vari
 
 ### [Website link](http://froodle.raveweb.net/froodle/)
 
+#### Template
+
 The website was built out of the Gaïa wordpress theme
 
 <img src="https://i.imgur.com/82NI36r.jpg" width="500">
+
+#### Favicon
+
+<img src="https://i.imgur.com/EFAzBUQ.png" width="500">
