@@ -3,15 +3,17 @@
 ## Domonic Bishop
 
 ## Index
-- [Rebrand Presentation](#rebrand-presentation-link)
-- [Formative Photo Library](#formative-photo-library-link)
-- [Summative Photo Library](#summative-photo-library-link)
+- [Presentations](#formative-rebrand-link)
 - [Blogs](#blogs)
 - [Change by Design](#change-by-design)
 - [Photo Library](#photo-library)
 
 
-## [Rebrand Presentation Link](https://docs.google.com/presentation/d/15yMiXfV7Ir-G8vGpYeiY2rjIJwpbKkM3QL0OcpUHkbk/edit?usp=sharing) 
+
+
+## [Formative Rebrand Link](https://docs.google.com/presentation/d/1Mflr2HqHmM5iRSRgXqzeXEu8f2J9Soj7Ltrm0k4I7EQ/edit?usp=sharing)
+
+## [Summative Rebrand Link](https://docs.google.com/presentation/d/15yMiXfV7Ir-G8vGpYeiY2rjIJwpbKkM3QL0OcpUHkbk/edit?usp=sharing) 
 [here are the notes I wrote](https://docs.google.com/document/d/1mXrPbGocpaKk2sRD4QOmNwoGTLCHEG342BUKleSxiOY/edit?usp=sharing)
 
 ## [Formative Photo Library Link](https://drive.google.com/file/d/1oFrXdGbDV0JfMNZvDQzSiIUb_MktgwwA/view?usp=sharing)
