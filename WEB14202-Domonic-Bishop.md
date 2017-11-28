@@ -132,18 +132,31 @@ The logo was designed by Ricardo Welch, here it is in some different colour vari
 <img src="https://i.imgur.com/v1ZF6LT.jpg" width="400">
 
 
----
 
-### Website
+## Website
 
 ### [Website link](http://froodle.raveweb.net/froodle/)
 
-#### Template
+
+### Template
 
 The website was built out of the Gaïa wordpress theme
 
 <img src="https://i.imgur.com/82NI36r.jpg" width="500">
 
-#### Favicon
+
+### Favicon
 
 <img src="https://i.imgur.com/EFAzBUQ.png" width="500">
+
+### Use of Colour
+
+The colours we use are scarce and if they are used, it should only be in a context that’s relevant to the image. Because our branding meant that we couldn’t add colour to our that wasn’t relevant to an image, I stripped the page down in terms of colour so that the website was more like a clean canvas for the images to sit on. It lets the bright images we have grab people's attention on the page, just as they should and it was the intention of our colour branding.
+
+<img src="https://i.imgur.com/tKXUow3.png" width="500">
+
+### Website Structure
+
+The website had to be structured in such a way that images would appear as packages of images for people to purchase, as opposed to individual ones. I had to this by attaching separate albums to each product so that a product appeared to be multiple images when looking through the content. I then set the featured images to one from the products album which I felt was the most aesthetically pleasing (my favorites), so that when browsing multiple products the best images would be on show.
+
+<img src="https://i.imgur.com/7cScpUS.png" width="500">
