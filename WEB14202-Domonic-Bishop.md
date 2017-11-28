@@ -163,6 +163,6 @@ The colours we use are scarce and if they are used, it should only be in a conte
 
 The website had to be structured in such a way that images would appear as packages of images for people to purchase, as opposed to individual ones. I had to this by attaching separate albums to each product so that a product appeared to be multiple images when looking through the content. I then set the featured images to one from the products album which I felt was the most aesthetically pleasing (my favorites), so that when browsing multiple products the best images would be on show.
 
-<img src="https://i.imgur.com/7cScpUS.png" width="500">
+<img src="https://i.imgur.com/2IFlpvx.png" width="500">
 
 <img src="https://i.imgur.com/3aiL2mG.png" width="500">
