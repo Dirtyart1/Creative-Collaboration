@@ -100,6 +100,20 @@ The key element in all of the photos we looked at was the manipulation of food t
 
 With this research we had conducted, we could establish how to build some brand guidelines that understood the audience and concept of Froodle. And how to implement design and marketing strategies that engaged our target audience and brought them closer to the brand.
 
+Through the research I conducted on pop art as a subject, I concluded that pop art is at its core, like most art, subjective. It is supposed to be subjective for an individual and at the same time be vivid and hard hitting. With this in mind, our branding should concentrate on making sure its the images that get people's attention. To do this, the branding should focus on being a canvas for the images by being black and white, and relying on the colour in the images themselves to give the brand life! Here are some of my sources:
+
+- http://www.tate.org.uk/art/art-terms/p/pop-art
+- http://www.tate.org.uk/art/art-terms/i/independent-group
+- http://time.com/4428882/how-one-photographer-is-rethinking-pop-art/
+
+---
+
+### Moodboard
+
+[This moodboard influenced the aesthetic of the brand with a contrast of strong colourful images on minimalist clean interfaces.](https://pin.it/Pqio_1X)
+
+<img src="https://i.imgur.com/rqEYgfc.png" width="500">
+
 ---
 
 ### Sketches
@@ -133,7 +147,7 @@ The logo was designed by Ricardo Welch, here it is in some different colour vari
 
 <img src="https://i.imgur.com/v1ZF6LT.jpg" width="400">
 
-
+---
 
 ## Website
 
